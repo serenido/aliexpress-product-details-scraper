@@ -1,0 +1,40 @@
+[
+  {
+    "status": "ok",
+    "productId": "3256811374070548",
+    "title": "46 Inch Burmese Curly Human Hair Wig 7x6 13x6 HD Lace Frontal 200 Density",
+    "price": 40.78,
+    "priceMax": 248.16,
+    "originalPrice": 108.7,
+    "discountPct": 62,
+    "currency": "USD",
+    "isNewShopperDeal": true,
+    "rating": 4.9,
+    "reviewCount": 724,
+    "soldCount": 1000,
+    "inStock": true,
+    "totalStock": 32497,
+    "skuCount": 90,
+    "canShip": true,
+    "shippingFee": 0,
+    "freeShipping": true,
+    "deliveryDaysMin": 4,
+    "deliveryDaysMax": 9,
+    "shipFrom": "United States",
+    "skus": [
+      {
+        "skuId": "12000055922089666",
+        "attributes": {
+          "Stretched Length": "30inches",
+          "Density": "180%"
+        },
+        "price": 77.77,
+        "originalPrice": 193.72,
+        "stock": 115,
+        "available": true
+      }
+    ],
+    "shipTo": "US",
+    "scrapedAt": "2026-10-11T11:09:08Z"
+  }
+]
