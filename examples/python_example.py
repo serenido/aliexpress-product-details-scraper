@@ -14,5 +14,5 @@ run = client.actor("serenido/aliexpress-product-details").call(run_input={
     "language": "en"
 })
 
-for item in client.dataset(run["defaultDatasetId"]).iterate_items():
+for item in client.dataset(run.default_dataset_id).iterate_items():
     print(item)
